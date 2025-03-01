@@ -1,0 +1,14 @@
+Package: menupy
+Version: 0.1
+Architecture: all
+Essential: no
+Maintainer: Eduardo Martinez
+Depends: bash, python3
+Filename: ./menupy_0.1_all.deb
+Size: 1238
+MD5sum: f12dd23e93c12a151bda7af021e68769
+SHA1: a7c0f3060ff1da71ed13423452a2ffafd36936c8
+SHA256: 22bcfac5c4e480cc2e0116536469dbbeb4bf358fa7f77cd34d7b449a0574063a
+Priority: optional
+Description: Programa python em um  pacote debian.
+
