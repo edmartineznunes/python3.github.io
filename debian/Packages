@@ -1,0 +1,14 @@
+Package: leitorPDF
+Version: 0.1
+Architecture: all
+Essential: no
+Maintainer: Eduardo Martinez
+Depends: python3
+Filename: ./leitor_pdf_0.1_all.deb
+Size: 6058
+MD5sum: 6421939c5be4408459492f4695d94814
+SHA1: 8cff3a5b9c64fb2856458f3e804d6d90e753b63e
+SHA256: c450bbee35c64a2f1508628ccfc9193624fb25d8a931c5f24ee326ab30195f16
+Priority: optional
+Description: Leitor de PDF desenvovido para contagem de Pontos do Relatório.
+
