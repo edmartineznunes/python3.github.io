@@ -1,0 +1,8 @@
+Package: leitorPDF
+Version: 0.1
+Architecture: all
+Essential: no
+Priority: optional
+Depends: python3  
+Maintainer: Eduardo Martinez
+Description: Leitor de PDF desenvovido para contagem de Pontos do Relatório.

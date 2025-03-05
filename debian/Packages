@@ -12,3 +12,17 @@ SHA256: c450bbee35c64a2f1508628ccfc9193624fb25d8a931c5f24ee326ab30195f16
 Priority: optional
 Description: Leitor de PDF desenvovido para contagem de Pontos do Relatório.
 
+Package: leitorPDF
+Version: 0.2
+Architecture: all
+Essential: no
+Maintainer: Eduardo Martinez
+Depends: python3
+Filename: ./leitor_pdf_0.2_all.deb
+Size: 7460
+MD5sum: f237830015c50c49838e541cfd7db266
+SHA1: ca47e72db34b43e9819f29065d26b04efdcfb4d5
+SHA256: ba76db71d582b75621ec0851e150c8dd6f08be0c35c32709def94cefc1c9c852
+Priority: optional
+Description: Leitor de PDF desenvolvido para contagem de Pontos do Relatório (Atualização para Documentação).
+
