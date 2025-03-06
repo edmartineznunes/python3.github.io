@@ -1,0 +1,11 @@
+#!/bin/bash
+
+PATH=$PATH:"/opt/leitor_pdf"
+
+
+echo -e "\033[36m Programa Python em Execução !!!\033[m"
+
+python3 /opt/leitor_pdf/pdfreader.py
+
+
+echo -e "\033[34m Finalizado programa Python !!!\033[m"
