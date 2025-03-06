@@ -33,10 +33,10 @@ Essential: no
 Maintainer: Eduardo Martinez
 Depends: python3
 Filename: ./leitor_pdf_0.3_all.deb
-Size: 7756
-MD5sum: 261d110e316ea52df0dc504d6e691a22
-SHA1: 7bde36d89208e4a827f4b13ecde5047ad84ca155
-SHA256: 16e3b4f2f48882da56b03dc1d36bcec3e3909f838ea510a382ee5f1e9f05586c
+Size: 7776
+MD5sum: af12cab6b9422e9a6ea38a1beec94303
+SHA1: 7b6ececfae54bfe4eb41995e69644c7e7537026b
+SHA256: 0df4e71775134b42917a3ee7c69616054f350561fc2d5634c0ff414785767361
 Priority: optional
 Description: Leitor de PDF desenvolvido para contagem de Pontos do Relatório (Atualização help e versão).
 
